@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertImageFormat</key>
+	<integer>1</integer>
+	<key>drawWatermark</key>
+	<integer>0</integer>
+	<key>fillColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
+	ZgEBhg==
+	</data>
+	<key>gifTransparency</key>
+	<integer>1</integer>
+	<key>imageFormat</key>
+	<integer>0</integer>
+	<key>jpgQuality</key>
+	<real>1</real>
+	<key>naming</key>
+	<integer>0</integer>
+	<key>namingTokens</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
+	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGlCwwSFh5VJG51bGzSDQ4PEVpO
+	Uy5vYmplY3RzViRjbGFzc6EQgAKABNITDhQVVmRpZ2l0cxAFgAPSFxgZGlokY2xhc3Nu
+	YW1lWCRjbGFzc2VzXFFTVG9rZW5JbmRleKMbHB1cUVNUb2tlbkluZGV4V1FTVG9rZW5Y
+	TlNPYmplY3TSFxgfIFdOU0FycmF5oh8dCBEaJCkyN0lMUVNZX2Rvdnh6fIGIioyRnKWy
+	tsPL1NnhAAAAAAAAAQEAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAOQ=
+	</data>
+	<key>pngInterlaced</key>
+	<integer>1</integer>
+	<key>rememberSubfolders</key>
+	<false/>
+	<key>scalingMethod</key>
+	<integer>0</integer>
+	<key>sizeHeight</key>
+	<integer>400</integer>
+	<key>sizePercent</key>
+	<integer>100</integer>
+	<key>sizeSelectedFillColor</key>
+	<true/>
+	<key>sizeSelectedHeight</key>
+	<true/>
+	<key>sizeSelectedPercent</key>
+	<false/>
+	<key>sizeSelectedWidth</key>
+	<true/>
+	<key>sizeWidth</key>
+	<integer>1024</integer>
+	<key>tiffQuality</key>
+	<real>1</real>
+	<key>watermarkBackgroundColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmAIPulwY+gxtnfD8Bhg==
+	</data>
+	<key>watermarkDrawBackgroundColor</key>
+	<integer>1</integer>
+	<key>watermarkFontName</key>
+	<string>Helvetica Neue</string>
+	<key>watermarkOffset</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU1ZhbHVlAISECE5TT2JqZWN0AIWEASqEhAx7
+	Q0dQb2ludD1kZH2Wg1i2l6x19Yk/gyljxoga+5I/hg==
+	</data>
+	<key>watermarkOffsetType</key>
+	<integer>68</integer>
+	<key>watermarkPlainString</key>
+	<string>My Name © 2015</string>
+	<key>watermarkRelativeWidth</key>
+	<real>0.28454044461250305</real>
+	<key>watermarkTextColor</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMDhAJm
+	ZgEBhg==
+	</data>
+</dict>
+</plist>
